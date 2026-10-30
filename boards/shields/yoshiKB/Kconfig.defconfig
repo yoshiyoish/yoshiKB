@@ -1,0 +1,6 @@
+if SHIELD_YOSHIKB
+
+config ZMK_KEYBOARD_NAME
+    default "yoshiKB"
+
+    endif
